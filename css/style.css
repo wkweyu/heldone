@@ -6267,10 +6267,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#808849e3', e
 .picframe {
     position: relative;
     overflow: hidden;
+    margin: 10px auto;
+   
 }
 
 .picframe img {
     width: 100%;
+    border-radius: 50%;
+    
 }
 
 .picframe span.icon {
@@ -8260,7 +8264,7 @@ a.read_more i {
 .profile_pic .tiny-border {
     margin-bottom: 20px;
 }
-
+ 
 .owl-custom-nav {
     position: absolute;
     z-index: 100;
