@@ -6273,8 +6273,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#808849e3', e
 
 .picframe img {
     width: 100%;
-    border-radius: 50%;
     
+
 }
 
 .picframe span.icon {
@@ -9888,4 +9888,16 @@ img {
 
 #ifrm {
     display: none
+}
+
+.img-fluid{
+    
+    padding: 15px;
+    border-radius: 25px;
+    
+}
+#img-cont{
+    display: flex;
+    justify-content: center;
+    
 }
