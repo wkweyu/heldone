@@ -9901,3 +9901,10 @@ img {
     justify-content: center;
     
 }
+.red{
+    color: red;
+    font-size: 48px !important;
+	letter-spacing:0px;
+    font-weight: 600;
+    
+}
